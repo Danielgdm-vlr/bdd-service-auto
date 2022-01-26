@@ -21,7 +21,7 @@ public class GenericConfig {
 //        dataSource.setUser("--PUT YOUR CREDENTIALS HERE--");
         dataSource.setUser("postgres");
 //        dataSource.setPassword("--PUT YOUR CREDENTIALS HERE--");
-        dataSource.setPassword("18062000gdm");
+        dataSource.setPassword("1q2w3e");
 
         return dataSource;
     }
